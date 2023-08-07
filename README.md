@@ -5,6 +5,8 @@ For a brief outline of the most significant results from the investigation, read
 
 The data set used in this project was a database stored as a SQLite file. Due to the large file size (> 1GB), the database could not be uploaded to GitHub. To execute the Jupyter Notebook scripts (optional), download the [indicators.sqlite](https://www.kaggle.com/datasets/psycon/world-development-indicators/download?datasetVersionNumber=21) file publicly available on Kaggle and are valid under the Creative Commons Attribution 4.0 International License, as stated by the World Bank.
 
+The [Analysis Notebook](https://github.com/dilraj451/WDI-Analysis/blob/main/analysis.ipynb) contains a static version of the data analysis code; the plots were created using plotly, an interatcive vizualization module, so the visualisations have not been rendered in the GitHub. Visit [Kaggle](https://www.kaggle.com/code/dilrajsidhu/wdi-analysis?scriptVersionId=139167978#) to view the analysis notebook with fully rendered visualisations.
+
 ## Objective
 The primary motivation of this project was to uncover any economic trends of interest. During the initial exploratory data analysis, the rapid economic development of newly industrialized countries (NICs) was particularly intriguing and the causes/effects of their development was the focus of the remaining exploration
 
